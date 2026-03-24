@@ -89,7 +89,7 @@ It is designed to help HR teams make **data-driven decisions** through clear vis
 
 ## 📁 Dataset
 
-* HR Dataset (Employee-level data including salary, department, designation, etc.)
+* HR Dataset :`https://docs.google.com/spreadsheets/d/1fo7eQ3D6fakEkP2-iOaGCxBEoMR6IYA3/edit?gid=1734473392#gid=1734473392`
 
 ---
 
@@ -110,6 +110,10 @@ It is designed to help HR teams make **data-driven decisions** through clear vis
 * Hiring trends fluctuate across months
 
 ---
+
+# Picture:
+
+![1774356882048](image/README/1774356882048.png)![1774356931339](image/README/1774356931339.png)![1774356961738](image/README/1774356961738.png)![1774357011585](image/README/1774357011585.png)![1774357229754](image/README/1774357229754.png)![1774357456844](image/README/1774357456844.png)
 
 ## 📌 Conclusion
 
